@@ -20,7 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshots
 
-![Desktop - QR Code Component](./images/screenshot-d.png)
+<!-- ![Desktop - QR Code Component](./images/screenshot-d.png) -->
+
 ![Mobile - QR Code Component](./images/screenshot-m.png)
 
 ### Links
@@ -32,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
--   Semantic HTML5 markup
+-   Semantic HTML5
 -   CSS custom properties
 -   Flexbox
 
