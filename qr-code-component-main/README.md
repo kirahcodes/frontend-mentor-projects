@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     -   [Useful resources](#useful-resources)
 -   [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshots
@@ -27,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 -   Solution URL: [GitHub Repo](https://github.com/kirahcodes/frontend-mentor-projects/tree/main/qr-code-component-main)
--   Live Site URL: [Live Site](https://your-live-site-url.com)
+-   Live Site URL: [Live Site](https://kirahcodes.com)
 
 ## My process
 
